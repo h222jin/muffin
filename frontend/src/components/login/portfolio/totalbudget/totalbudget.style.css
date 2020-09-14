@@ -1,0 +1,29 @@
+@import "../../../../style.css";
+
+.totalbudget_section {
+  display: flex;
+  flex-direction: row;
+  width: 95%;
+  margin-bottom: 5px;
+  margin-top: 40px;
+}
+
+.my_totlabudget_title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.my_totlabudget_money {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.my_rate {
+  position: absolute;
+  left: 700px;
+  top: 230px;
+  vertical-align: bottom;
+  margin-left: 20px;
+  font-size: 20px;
+}

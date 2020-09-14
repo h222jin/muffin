@@ -1,0 +1,12 @@
+.tab_portfolio_container {
+  position: absolute;
+  left: 500px;
+  margin-top: 30px;
+}
+
+.tab_portfolio_content_container {
+  position: absolute;
+  left: 300px;
+  top: 450px;
+  width: 1200px;
+}

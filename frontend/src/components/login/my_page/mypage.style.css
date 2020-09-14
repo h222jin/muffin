@@ -1,0 +1,30 @@
+@import "../../../style.css";
+
+.documentroom_container {
+  width: 1080px;
+  height: 1000px;
+  flex-direction: column;
+  margin-left: 83px;
+  margin-top: 42px;
+}
+
+.link-list-tab {
+  margin-top: 25px;
+  width: 200px;
+  height: 53px;
+  color: var(--greenish-teal);
+  font-size: 22px;
+  text-align: center;
+  text-decoration: none;
+  background-color: white;
+  border: none;
+}
+
+.tab_container {
+  position: absolute;
+  left: 500px;
+}
+
+.tab_content_container {
+  padding-top: 150px;
+}

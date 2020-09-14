@@ -1,0 +1,57 @@
+@import "../../../style.css";
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* 1 */
+
+.nav-container {
+  display: flex;
+  /* position: fixed; */
+
+  width: 100vw;
+  height: 64px;
+  background-color: #222222;
+}
+
+.btn-container {
+  flex: 1;
+
+  padding-top: 16px;
+  padding-right: 47px;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn-p {
+  padding-right: 7px;
+}
+
+.logo-container {
+  height: 64px;
+  width: 200px;
+  display: flex;
+  padding-left: 31px;
+  align-items: center;
+}
+
+.nav-btn {
+  font-size: 1rem;
+  /* TODO : 폰트 사이즈 지정*/
+  /* padding-right: 7px; */
+  font-family: NanumSquareB;
+
+  width: 80px;
+  height: 33px;
+
+  border: 1px solid var(--white-two);
+  border-radius: 16.5px;
+  outline: none;
+
+  color: var(--brownish-grey);
+
+  font-size: 13.5px;
+}

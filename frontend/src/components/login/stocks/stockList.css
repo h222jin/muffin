@@ -1,0 +1,122 @@
+.documentroom_container {
+  width: 1080px;
+  height: 1000px;
+  flex-direction: column;
+  margin-left: 83px;
+  margin-top: 42px;
+}
+
+.documentroom_text {
+  font-size: 20px;
+  font-family: NanumSquareB;
+}
+
+.documentroom_table {
+  width: 1080px;
+  height: 550px;
+  margin-bottom: 17px;
+  margin-top: 21px;
+  border: #000000;
+}
+
+.search_input {
+  margin-left: 5px;
+  width: 400px;
+  height: 35px;
+  font-size: 12px;
+}
+
+.conference_search {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 21px;
+}
+
+.search_button {
+  margin-left: 2px;
+  text-align: center;
+  font-size: 13px;
+  width: 50px;
+  height: 23px;
+  background-color: var(--greenish-teal);
+  border: none;
+  color: #ffffff;
+  padding: 8px;
+  text-decoration: none;
+}
+.w-full {
+  width: 100%;
+}
+
+.table thead tr th {
+  --border-opacity: 1;
+  border-color: #eeeeee;
+  border-color: rgba(238, 238, 238, var(--border-opacity));
+  --text-opacity: 1;
+  color: #9e9e9e;
+  color: rgba(158, 158, 158, var(--text-opacity));
+}
+.table thead tr th,
+.table tbody tr td {
+  text-align: left;
+}
+.table thead tr th {
+  padding: 0.5rem 0.75rem;
+  border-bottom-width: 1px;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 2px;
+}
+th {
+  display: table-cell;
+  vertical-align: inherit;
+}
+.table tbody tr td {
+  border-color: rgb(240, 240, 240);
+  padding: 0.5rem 0.75rem;
+  border-bottom-width: 1px;
+  white-space: nowrap;
+}
+.text-2xl {
+  font-size: 1.5rem;
+  margin: 20px 460px 20px 10px;
+}
+.page_nation {
+  margin: 16px 0px 0px 70px;
+}
+.form-select {
+  margin-right: 16px;
+}
+.relative {
+  max-width: 300px;
+  margin: 10px 0px 0px 160px;
+  bg-opacity: 1;
+  background-color: #f5f5f5;
+  background-color: rgba(245, 245, 245, var(--bg-opacity));
+  --border-opacity: 1;
+  border-color: #f5f5f5;
+  border-color: rgba(245, 245, 245, var(--border-opacity));
+}
+.register_btn {
+  float: right;
+}
+
+.btn-blue {
+  background-color: #2196f3;
+}
+
+.btn-red {
+  background-color: #f44336;
+}
+
+.plus_minus_btn {
+  background-color: white;
+  color: #2196f3;
+}

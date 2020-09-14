@@ -1,0 +1,37 @@
+@import "../../../../style.css";
+
+.recent_container {
+  font-size: 30px;
+}
+.test {
+  height: 35px;
+  margin-bottom: 15px;
+}
+
+.news_title_section {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+}
+
+.news_title {
+  font-size: 50px;
+  width: 540px;
+  height: 30px;
+  font-weight: bold;
+}
+
+.news_regdate {
+  position: relative;
+  left: 10%;
+  margin-top: 3px;
+  color: var(--brownish-grey);
+  font-size: 17px;
+  width: 150px;
+  height: 30px;
+}
+
+.news_title_style {
+  font-size: 17px;
+  margin-left: 20px;
+}

@@ -1,0 +1,65 @@
+.stock_table {
+  margin: 10px 0px 20px 10px;
+  width: 80%;
+}
+.card_grid {
+  padding-right: 16px;
+}
+.text_row {
+  padding-bottom: 8px;
+}
+.card_second {
+  height: 82px;
+  width: 100%;
+  padding-top: 8px;
+}
+.stocks_data {
+  padding-right: 8px;
+}
+
+.mystock {
+  float: right;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.text-white {
+  color: white;
+}
+
+.btn-blue {
+  background-color: #2196f3;
+}
+
+.btn-red {
+  background-color: #f44336;
+}
+
+.stock_name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.stock_code {
+  font-size: 12px;
+}
+
+.line_setting_1 {
+  vertical-align: bottom;
+}
+
+.line_setting_2 {
+  position: relative;
+  top: 15px;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.plus_minus_btn {
+  background-color: white;
+  color: #2196f3;
+}

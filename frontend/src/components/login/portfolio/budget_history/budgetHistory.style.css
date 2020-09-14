@@ -1,0 +1,41 @@
+.pagination_history_div {
+  position: absolute;
+  left: 470px;
+  top: 420px;
+}
+.page-div {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.pagination-div {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination {
+  border: none;
+  width: 400px;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+}
+
+.page-item {
+  border: none;
+  list-style: none;
+  padding-left: 0px;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.page_button {
+  font-size: 14px;
+  color: var(--brownish-grey);
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

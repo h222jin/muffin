@@ -1,0 +1,56 @@
+@import "../../../../style.css";
+
+.asset_title_section {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+}
+
+.my_asset_title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.today {
+  position: relative;
+  margin-top: 3px;
+  color: var(--brownish-grey);
+  font-size: 14px;
+  padding-left: 180px;
+}
+.my_money {
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  width: 415px;
+  border-bottom: solid 1px var(--white-two);
+}
+
+.my_money_profit {
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.won {
+  padding-right: 5px;
+}
+
+.money {
+  margin-bottom: 5px;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.black {
+  color: black;
+}

@@ -1,0 +1,68 @@
+@import "../../../../style.css";
+
+.table_my_comment_head_text1 {
+  font-size: 16px;
+  margin-top: 7px;
+  margin-left: 400px;
+}
+
+.table_my_comment_head_text2 {
+  font-size: 16px;
+  margin-top: 7px;
+  margin-left: 430px;
+}
+
+.myComment-li {
+  list-style-type: none;
+  float: none;
+  width: 1060px;
+  height: 100px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding: 8px 10px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.post-my_row-list-item1 {
+  position: absolute;
+  left: 150px;
+  width: 500px;
+  list-style-type: none;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  /* margin: auto; */
+  margin-top: 5px;
+  font-size: 14px;
+  float: left;
+  border: none;
+}
+
+.post-my_row-list-item2 {
+  position: absolute;
+  left: 700px;
+  width: 100px;
+  list-style-type: none;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  /* margin: auto; */
+  margin-top: 5px;
+  font-size: 14px;
+  float: left;
+  border: none;
+}
+.post-my_row-list-item3 {
+  position: absolute;
+  left: 840px;
+  width: 200px;
+  list-style-type: none;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  /* margin: auto; */
+  margin-top: 5px;
+  font-size: 14px;
+  float: left;
+  border: none;
+}

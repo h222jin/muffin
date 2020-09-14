@@ -1,0 +1,44 @@
+@import "../../../../style.css";
+
+.recommendation_opinion_container {
+  width: 600px;
+  height: 100%;
+}
+
+.opinion_title_section {
+  display: flex;
+  flex-direction: row;
+  width: 85%;
+  margin-bottom: 2.5%;
+}
+
+.opinion_title {
+  font-weight: bold;
+  font-size: 16px;
+  width: 68%;
+}
+
+.opinion_regdate {
+  margin-top: 3px;
+  color: var(--brownish-grey);
+  font-size: 14px;
+  width: 100px;
+}
+
+.news_summary_section {
+  width: 940px;
+  margin-bottom: 7px;
+}
+
+.keyword_b {
+  font-size: 5px;
+  font-family: NanumSquareB;
+  background-color: var(--light-sage-two);
+  width: 100px;
+  height: 20px;
+  border-radius: 16.5px;
+  outline: none;
+  color: var(--brownish-grey);
+
+  font-size: 13.5px;
+}

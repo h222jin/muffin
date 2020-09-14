@@ -1,0 +1,13 @@
+@import "../../../../style.css";
+
+.table_my_head_text1 {
+  font-size: 16px;
+  margin-top: 7px;
+  margin-left: 500px;
+}
+
+.table_my_head_text2 {
+  font-size: 16px;
+  margin-top: 7px;
+  margin-left: 320px;
+}

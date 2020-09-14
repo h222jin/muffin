@@ -1,0 +1,56 @@
+/* MARKUP: global style */
+:root {
+  --greenish-teal: #e5c09d;
+  --pinkish-grey: #c0c0c0;
+  --light-black: #222222;
+  --brownish-grey: #696969;
+  --white-two: #d6d6d6;
+  --dark-seafoam: #eaccae;
+  --white-three: #fafafa;
+  --light-sage: #fff8f1;
+  --light-sage-two: #f5e2d0;
+  --white-four: #f6f6f6;
+  --white-five: #ececec;
+  --white-six: #fefefe;
+}
+* {
+  line-height: 1.5;
+  font-family: "NanumSquareR";
+  /*font-size: 15px;*/
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.container {
+  padding: 0px;
+  margin: 0px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+@font-face {
+  font-family: "NanumSquareB";
+  src: url("./fonts/NanumSquareB.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NanumSquareEB";
+  src: url("./fonts/NanumSquareEB.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NanumSquareL";
+  src: url("./fonts/NanumSquareL.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NanumSquareR";
+  src: url("./fonts//NanumSquareR.ttf") format("truetype");
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}

@@ -1,0 +1,29 @@
+.plus_minus_btn {
+  background-color: white;
+  color: #2196f3;
+}
+
+.btn-blue {
+  background-color: #2196f3;
+  color: white;
+}
+
+.btn-red {
+  background-color: #f44336;
+  color: white;
+}
+
+.btn-gray {
+  background-color: #9e9e9e;
+  color: white;
+}
+
+.text_middle_bold {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.text_small {
+  font-size: 18px;
+}

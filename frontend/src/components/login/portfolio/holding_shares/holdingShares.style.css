@@ -1,0 +1,66 @@
+.w-full {
+  width: 100%;
+}
+
+.plus_minus_btn {
+  background-color: white;
+  color: #2196f3;
+}
+
+.btn-blue {
+  background-color: #2196f3;
+}
+
+.btn-red {
+  background-color: #f44336;
+}
+
+.w-full_holding {
+  width: 1000px;
+}
+
+.shares_title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.btn_section {
+  padding-left: 50px;
+}
+
+.td_margin {
+  padding-right: 50px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.td_margin_2 {
+  padding-right: 12px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.td_margin_3 {
+  padding-right: 34px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.td_won_font {
+  font-size: 18px;
+}
+
+.tr_height_title {
+  height: 70px;
+}
+
+.tr_height {
+  height: 40px;
+}
+
+.stock_card {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #a7a7a7;
+  max-width: 430px;
+}

@@ -1,0 +1,37 @@
+@import "../../../../style.css";
+.recommendation_stock_container {
+  width: 500px;
+  height: 500px;
+}
+
+.stock_detail_section_01 {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  width: 95%;
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.stock_title_section {
+  width: 100px;
+  margin-right: 10px;
+}
+
+.stock_column_section {
+  width: 90px;
+  margin-right: 10px;
+}
+
+.up {
+  display: flex;
+  flex-direction: row;
+  color: red;
+}
+
+.down {
+  display: flex;
+  flex-direction: row;
+  color: blue;
+}
